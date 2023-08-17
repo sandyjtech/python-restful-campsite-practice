@@ -1,4 +1,4 @@
-# RESTFUL Campsite Practice
+# RESTful Campsite Practice
 
 ### Campsite API
 Build out a full RESTful Flask API for park AND campsite resources with models, migration(s), routes, resource classes and view methods.  Models should have the following properties:
