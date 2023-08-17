@@ -12,6 +12,7 @@ importlib-resources = "*"
 ipdb = "*"
 jsonify = "*"
 sqlalchemy-serializer = "*"
+faker = "*"
 
 [dev-packages]
 
